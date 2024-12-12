@@ -1,0 +1,76 @@
+{
+  "html": {
+    "lang": "id",
+    "title": "Puskesmas Jayengan",
+    "description": "Sahabat menuju sehat",
+    "favicon": "/favicon.svg"
+  },
+  "background": {
+    "firstColor": "#454281",
+    "secondColor": "#B38AC2"
+  },
+  "header": {
+    "image": "/profile.webp",
+    "alt": "Sehati",
+    "title": "Puskesmas Jayengan",
+    "description": "Sahabat menuju sehat",
+    "textColor": "white"
+  },
+  "socials": [
+    {
+      "network": "Instagram",
+      "username": "puskesmasjayengan",
+      "url": "https://www.instagram.com/puskesmasjayengan"
+    },
+    {
+      "network": "YouTube",
+      "username": "@puskesmasjayengan",
+      "url": "https://www.youtube.com/channel/UCskkGPqhJDbN_TxdMzCYsoA"
+    },
+    {
+      "network": "Map",
+      "username": "Puskesmas Jayengan",
+      "url": "https://www.google.com/maps/place/Puskesmas+Jayengan/data=!4m2!3m1!1s0x0:0x82945ca75be11b20?sa=X&ved=1t:2428&ictx=111"
+    },
+    {
+      "network": "WhatsApp",
+      "username": "Puskesmas Jayengan",
+      "url": "https://wa.me/82226059060"
+    },
+    {
+      "network": "Facebook",
+      "username": "Puskesmas Jayengan",
+      "url": "https://m.facebook.com/people/Puskesmas-Jayengan/100011966613867/"
+    },
+    {
+      "network": "Mail",
+      "username": "puskesmasjayengan",
+      "url": "mailto:puskesmasjayengan@gmail.com"
+    }
+  ],
+  "featured": [
+    {
+      "network": "Link",
+      "url": "https://pkm-jayengan.surakarta.go.id/",
+      "title": "Cari tahu tentang kami lebih lanjut",
+      "textColor": "#FFF",
+      "backgroundImage": "https://pkm-jayengan.surakarta.go.id/displayFileFe/dok_infografis/cover_IMG-20241203-WA0002_1733205191.png",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    }
+  ],
+  "buttons": [
+    {
+      "network": "Link",
+      "url": "https://jsonlinks.netlify.app/templates",
+      "title": "See more templates",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    }
+  ],
+  "footer": {
+    "copyright": "Made with ☕ by Us",
+    "url": "https://github.com/mlengse"
+  }
+}
