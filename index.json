@@ -62,15 +62,15 @@
   "buttons": [
     {
       "network": "Link",
-      "url": "https://jsonlinks.netlify.app/templates",
-      "title": "See more templates",
+      "url": "/docs",
+      "title": "Dokumentasi",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
   ],
   "footer": {
-    "copyright": "Made with ☕ by Us",
+    "copyright": "2024 © Puskesmas Jayengan",
     "url": "https://github.com/mlengse"
   }
 }
