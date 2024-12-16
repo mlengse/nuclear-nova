@@ -18,16 +18,14 @@ export default defineConfig({
         autogenerate: { directory: 'docs/akred' }
       },
       {
-        label: 'Guides',
-        items: [
-          // Each item here is one entry in the navigation menu.
-          { label: 'Example Guide', slug: 'docs/guides/example' },
-        ],
+        label: 'Akreditasi Puskesmas',
+        autogenerate: { directory: 'docs/pkm' }
       },
       {
-        label: 'Reference',
-        autogenerate: { directory: 'docs/reference' },
-      },
+        label: 'Akreditasi Klinik',
+        autogenerate: { directory: 'docs/klinik' }
+      }
+
     ],
   }), markdoc()],
 });
