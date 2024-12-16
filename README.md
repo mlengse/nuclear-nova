@@ -21,7 +21,7 @@ Open source links page, customizable via JSON. Made with Astro 4.
 
 </div>
 
-![AstroLinkHub Screenshot](/public/screenshot.webp)
+![AstroLinkHub Screenshot](/docs/akred/pkm/public/screenshot.webp)
 
 
 ## Table of Contents
