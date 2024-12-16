@@ -21,6 +21,7 @@ export default defineConfig({
             },
             {
               label: 'Klinik',
+              // slug: 'docs/akred/klinik',
               autogenerate: { directory: 'docs/akred/klinik' }
             }
           ],
