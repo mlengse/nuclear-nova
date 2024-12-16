@@ -1,13 +1,13 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightThemeObsidian from 'starlight-theme-obsidian';
+// import starlightThemeObsidian from 'starlight-theme-obsidian';
 
 import markdoc from '@astrojs/markdoc';
 
 // https://astro.build/config
 export default defineConfig({
   integrations: [starlight({
-    plugins: [starlightThemeObsidian()],
+    // plugins: [starlightThemeObsidian()],
     title: 'Referensi',
     social: {
       github: 'https://github.com/mlengse',
