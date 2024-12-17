@@ -63,7 +63,7 @@
     {
       "network": "Link",
       "url": "/docs",
-      "title": "Dokumentasi",
+      "title": "Referensi",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
