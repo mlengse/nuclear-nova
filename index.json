@@ -62,7 +62,7 @@
   "buttons": [
     {
       "network": "Link",
-      "url": "/akred/pkm",
+      "url": "https://pkm.jyg.my.id",
       "title": "Akreditasi Puskesmas",
       "textColor": "#FFF",
       "backgroundColor": "#000",
@@ -70,7 +70,7 @@
     },
     {
       "network": "Link",
-      "url": "/akred/klinik",
+      "url": "https://klg.jyg.my.id",
       "title": "Akreditasi Klinik",
       "textColor": "#FFF",
       "backgroundColor": "#000",
