@@ -62,12 +62,21 @@
   "buttons": [
     {
       "network": "Link",
-      "url": "/docs",
-      "title": "Referensi",
+      "url": "/akred/pkm",
+      "title": "Akreditasi Puskesmas",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "/akred/klinik",
+      "title": "Akreditasi Klinik",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
+
   ],
   "footer": {
     "copyright": "2024 © Puskesmas Jayengan",
