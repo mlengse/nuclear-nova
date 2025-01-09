@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pkm.jyg.my.id/sitemap.xml
+Sitemap: https://ilp.jyg.my.id/sitemap.xml
+Sitemap: https://klg.jyg.my.id/sitemap.xml
