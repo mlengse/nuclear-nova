@@ -62,7 +62,7 @@
   "buttons": [
     {
       "network": "Link",
-      "url": "https://ilp.jyg.my.id/ILP",
+      "url": "https://ilp.jyg.my.id/ILP/pendahuluan",
       "title": "Integrasi Layanan Primer",
       "textColor": "#FFF",
       "backgroundColor": "#000",
