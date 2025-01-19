@@ -62,8 +62,16 @@
   "buttons": [
     {
       "network": "Link",
-      "url": "https://ilp.jyg.my.id",
+      "url": "https://ilp.jyg.my.id/ILP",
       "title": "Integrasi Layanan Primer",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "https://ilp.jyg.my.id/PPK/praktik-klinis",
+      "title": "Panduan Praktik Klinis",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
