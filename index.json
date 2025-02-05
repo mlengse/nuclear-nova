@@ -62,6 +62,14 @@
   "buttons": [
     {
       "network": "Link",
+      "url": "https://ilp.jyg.my.id/PKG/pendahuluan",
+      "title": "Pemeriksaan Kesehatan Gratis",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
       "url": "https://ilp.jyg.my.id/ILP/pendahuluan",
       "title": "Integrasi Layanan Primer",
       "textColor": "#FFF",
